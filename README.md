@@ -1,6 +1,9 @@
+##Overview
+This project focuses on analyzing hotel booking cancellations using advanced Excel techniques.The analysis was conducted on a dataset 
+containing over 119,000 bookings, with a specific focuson understanding the patterns and reasons behind the 44,224 cancellations recorded.
+A comprehensive dashboard was created to visualize the key insights and provide an interactive tool for further exploration.
 
 ## Project Highlights
-
 ### 1. **Data Cleaning and Preparation**
    - **Initial Data Overview:** The raw data was inspected for any inconsistencies, missing values, and duplicates. 
    - **Handling Missing Data:** Missing values were either filled or removed based on the context to ensure the accuracy of the analysis.
